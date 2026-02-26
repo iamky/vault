@@ -14,4 +14,7 @@
 
 *Italic* (**)
 
-- 
+- Bullet (- )
+	- Nested
+
+1. Number 1 
