@@ -22,3 +22,6 @@
 [[MD Tips]] ([[ ]])
 [Web Link].(https://google.com)
 
+==Highlight==
+
+~~Strike~~
