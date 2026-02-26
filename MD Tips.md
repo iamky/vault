@@ -25,3 +25,5 @@
 ==Highlight==
 
 ~~Strike~~
+
+- [ ] Checkbox (- [ ] )
